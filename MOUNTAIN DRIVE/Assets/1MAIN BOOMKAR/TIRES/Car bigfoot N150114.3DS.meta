@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 5234d73652ce8594d93d65a32b3729f6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: black m
+    100002: blue
+    100004: body
+    100006: body0
+    100008: body1
+    100010: body2
+    100012: //RootNode
+    100014: chrome
+    100016: chrome0
+    100018: chrome1
+    100020: chrome2
+    100022: chrome3
+    100024: chrome4
+    100026: chrome5
+    100028: chrome6
+    100030: chrome7
+    100032: chrome8
+    100034: dash
+    100036: dash1
+    100038: doors
+    100040: doors0
+    100042: glass
+    100044: glass0
+    100046: glass1
+    100048: gum
+    100050: gum0
+    100052: gum1
+    100054: interior
+    100056: interior0
+    100058: lights
+    100060: plate
+    100062: red
+    100064: red l
+    100066: sign
+    100068: sign0
+    100070: sign1
+    100072: sign2
+    100074: sign3
+    100076: tire
+    100078: tire0
+    100080: tire1
+    100082: tire2
+    100084: tire3
+    100086: usa
+    100088: white
+    100090: yelow
+    400000: black m
+    400002: blue
+    400004: body
+    400006: body0
+    400008: body1
+    400010: body2
+    400012: //RootNode
+    400014: chrome
+    400016: chrome0
+    400018: chrome1
+    400020: chrome2
+    400022: chrome3
+    400024: chrome4
+    400026: chrome5
+    400028: chrome6
+    400030: chrome7
+    400032: chrome8
+    400034: dash
+    400036: dash1
+    400038: doors
+    400040: doors0
+    400042: glass
+    400044: glass0
+    400046: glass1
+    400048: gum
+    400050: gum0
+    400052: gum1
+    400054: interior
+    400056: interior0
+    400058: lights
+    400060: plate
+    400062: red
+    400064: red l
+    400066: sign
+    400068: sign0
+    400070: sign1
+    400072: sign2
+    400074: sign3
+    400076: tire
+    400078: tire0
+    400080: tire1
+    400082: tire2
+    400084: tire3
+    400086: usa
+    400088: white
+    400090: yelow
+    2100000: Ceramiks 2
+    2100002: glass
+    2100004: gum
+    2100006: plate
+    2100008: lights
+    2100010: red l
+    2100012: dash
+    2100014: dash1
+    2100016: interior
+    2100018: chrome
+    2100020: doors
+    2100022: Ceramiks
+    2100024: usa
+    2100026: sign
+    2100028: tire
+    2100030: white
+    2100032: black m
+    2100034: blue
+    2100036: yelow
+    2300000: black m
+    2300002: blue
+    2300004: body
+    2300006: body0
+    2300008: body1
+    2300010: body2
+    2300012: chrome
+    2300014: chrome0
+    2300016: chrome1
+    2300018: chrome2
+    2300020: chrome3
+    2300022: chrome4
+    2300024: chrome5
+    2300026: chrome6
+    2300028: chrome7
+    2300030: chrome8
+    2300032: dash
+    2300034: dash1
+    2300036: doors
+    2300038: doors0
+    2300040: glass
+    2300042: glass0
+    2300044: glass1
+    2300046: gum
+    2300048: gum0
+    2300050: gum1
+    2300052: interior
+    2300054: interior0
+    2300056: lights
+    2300058: plate
+    2300060: red
+    2300062: red l
+    2300064: sign
+    2300066: sign0
+    2300068: sign1
+    2300070: sign2
+    2300072: sign3
+    2300074: tire
+    2300076: tire0
+    2300078: tire1
+    2300080: tire2
+    2300082: tire3
+    2300084: usa
+    2300086: white
+    2300088: yelow
+    3300000: black m
+    3300002: blue
+    3300004: body
+    3300006: body0
+    3300008: body1
+    3300010: body2
+    3300012: chrome
+    3300014: chrome0
+    3300016: chrome1
+    3300018: chrome2
+    3300020: chrome3
+    3300022: chrome4
+    3300024: chrome5
+    3300026: chrome6
+    3300028: chrome7
+    3300030: chrome8
+    3300032: dash
+    3300034: dash1
+    3300036: doors
+    3300038: doors0
+    3300040: glass
+    3300042: glass0
+    3300044: glass1
+    3300046: gum
+    3300048: gum0
+    3300050: gum1
+    3300052: interior
+    3300054: interior0
+    3300056: lights
+    3300058: plate
+    3300060: red
+    3300062: red l
+    3300064: sign
+    3300066: sign0
+    3300068: sign1
+    3300070: sign2
+    3300072: sign3
+    3300074: tire
+    3300076: tire0
+    3300078: tire1
+    3300080: tire2
+    3300082: tire3
+    3300084: usa
+    3300086: white
+    3300088: yelow
+    4300000: body
+    4300002: glass
+    4300004: gum
+    4300006: glass0
+    4300008: plate
+    4300010: lights
+    4300012: red l
+    4300014: gum0
+    4300016: glass1
+    4300018: dash
+    4300020: dash1
+    4300022: interior
+    4300024: interior0
+    4300026: gum1
+    4300028: chrome
+    4300030: body0
+    4300032: doors
+    4300034: body1
+    4300036: doors0
+    4300038: body2
+    4300040: chrome0
+    4300042: chrome1
+    4300044: red
+    4300046: usa
+    4300048: sign
+    4300050: chrome2
+    4300052: tire
+    4300054: sign0
+    4300056: chrome3
+    4300058: tire0
+    4300060: chrome4
+    4300062: tire1
+    4300064: sign1
+    4300066: chrome5
+    4300068: tire2
+    4300070: sign2
+    4300072: tire3
+    4300074: sign3
+    4300076: white
+    4300078: black m
+    4300080: blue
+    4300082: yelow
+    4300084: chrome6
+    4300086: chrome7
+    4300088: chrome8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
